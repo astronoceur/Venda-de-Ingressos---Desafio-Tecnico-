@@ -17,6 +17,7 @@ C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Deb
 C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\MeuProjeto.Api.csproj.CoreCompileInputs.cache
 C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\MeuProjeto.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\MeuProjeto.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\MeuProjeto.Api.sourcelink.json
 C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\luiza\OneDrive\Área de Trabalho\Desafio Tecnico\MeuProjeto.Api\obj\Debug\net8.0\staticwebassets\msbuild.MeuProjeto.Api.Microsoft.AspNetCore.StaticWebAssets.props
